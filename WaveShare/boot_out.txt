@@ -1,0 +1,4 @@
+Adafruit CircuitPython 10.3.0-alpha.2-17-gba8fc53f0c on 2026-06-10; Waveshare POE ETH 8DI 8RO with rp2350b
+Board ID:waveshare_poe_eth_8di_8ro
+UID:7C3B63698688FF35
+boot.py output:
