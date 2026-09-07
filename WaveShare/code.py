@@ -87,7 +87,8 @@ while True:
         print("E STOP")
         print(state)
 
-
+    if state == state_stop:
+        break
     
         
     IO.LED.value = not IO.LED.value # no LED on the waveshare board - uses RGB    
